@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 =====
-
+Hello! I am a final year undergraduate student of the [Indian Institution of Technology, Kharagpur](http://www.iitkgp.ac.in)
 
 Getting started
 =====

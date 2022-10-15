@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mihir Shrivastava"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mihir Shrivastava"
 description              : &description "Physics IIT Kharagpur"
@@ -82,16 +82,15 @@ analytics:
 author:
   name             : "Mihir Shrivastava"
   avatar           : "profile.png"
-  bio              : "Physics IIT Kharagpur"
-  location         : "Kharagpur, India"
-  employer         : 
+  bio              : "Physics 
+  IIT Kharagpur"
   googlescholar    : "https://scholar.google.com/citations?user=jV2UcJIAAAAJ&hl=en"
   email            : "mihirshriv@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Mihir-Shrivastava"
   github           : "MihirShrivastav"
-  linkedin         : "https://www.linkedin.com/in/mihir-shrivastava-a2a1b7191/"
+  linkedin         : "https://www.linkedin.com/in/mihir-shrivastava-a2a1b7191"
   orcid            : "https://orcid.org/0000-0002-6767-139X"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+
 
 
 # Reading Files
